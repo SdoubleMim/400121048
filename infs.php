@@ -46,7 +46,7 @@ $rows = [
     <title>برنامه نویسی وب</title>
 </head>
 <body style="width:70%;margin-right:auto;margin-left:auto;">
-    <h1>برنامه نویسی وب</h1>
+    <h2>برنامه نویسی وب</h2>
     <table class="table">
         <thead>
             <tr>
