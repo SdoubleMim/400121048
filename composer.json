@@ -1,7 +1,8 @@
 {
     "name": "nasser/webprogramming2",
     "require": {
-        "illuminate/database": "^12.12"
+        "illuminate/database": "^12.15",
+        "laravel/serializable-closure": "v2.0.4"
     },
     "autoload": {
         "psr-4": {
